@@ -10,5 +10,5 @@ You can view the project page after downloading the html file and running it usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/khalid-alhoshan-cv.git
+   git clone https://github.com/kaibow1/khalid-alhoshan-cv.git
 
